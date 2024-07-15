@@ -1,8 +1,7 @@
 
-```markdown
-# Chat with Multiple PDF
+## Chat with Multiple PDF
 
-This project aims to provide a comprehensive solution for chatting with multiple PDF documents. It leverages Streamlit for the web interface and advanced AI for generating responses from the content of the PDFs.
+Welcome to the **Chat with Multiple PDF** project! This project aims to provide a comprehensive solution for chatting with multiple PDF documents, leveraging Streamlit for the web interface and advanced AI for generating responses from the content of the PDFs.
 
 ## Installation
 
@@ -41,7 +40,7 @@ pip install -r requirements.txt
 
 ### Set Up API Key
 
-Make sure to set up your Google API key. You can store it in a .env file in the root directory of your project:
+Make sure to set up your Google API key. You can store it in a `.env` file in the root directory of your project:
 
 ```
 GOOGLE_API_KEY=your_api_key
@@ -125,5 +124,5 @@ This project uses Git for version control. Below are some basic commands to get 
   git push -u origin main
   ```
 
-Feel free to reach out if you have any questions or need further assistance!
-```
+---
+
